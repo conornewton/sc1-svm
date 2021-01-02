@@ -1,0 +1,15 @@
+---
+    title: Statistical Computing 1 - Assessed Coursework 2
+    author: Conor Newton
+
+    output: 
+        pdf_document:
+            numbered_sections: true
+---
+
+
+# Linearly Seperable Data
+
+# Non-Linearly Seperable Data (Soft-Margin Classifiers)
+
+# Kernel Machines
